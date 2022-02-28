@@ -1,0 +1,1 @@
+cmd_/home/vaibhav/Downloads/cs202Kernel-master/kernel_module/Module.symvers := sed 's/\.ko$$/\.o/' /home/vaibhav/Downloads/cs202Kernel-master/kernel_module/modules.order | scripts/mod/modpost -m -a  -o /home/vaibhav/Downloads/cs202Kernel-master/kernel_module/Module.symvers -e -i Module.symvers   -T -

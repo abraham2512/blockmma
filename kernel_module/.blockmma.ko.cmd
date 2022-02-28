@@ -1,0 +1,1 @@
+cmd_/home/vaibhav/Downloads/cs202Kernel-master/kernel_module/blockmma.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/vaibhav/Downloads/cs202Kernel-master/kernel_module/blockmma.ko /home/vaibhav/Downloads/cs202Kernel-master/kernel_module/blockmma.o /home/vaibhav/Downloads/cs202Kernel-master/kernel_module/blockmma.mod.o;  true
